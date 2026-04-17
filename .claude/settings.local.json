@@ -3,7 +3,8 @@
     "allow": [
       "Bash(ruby --version)",
       "Bash(gem --version)",
-      "Bash(gem install:*)"
+      "Bash(gem install:*)",
+      "Bash(bundle exec:*)"
     ]
   }
 }
